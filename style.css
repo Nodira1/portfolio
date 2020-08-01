@@ -1,0 +1,11 @@
+header nav .navbar {
+  padding: 0px;
+}
+
+section .name .name-text {
+  text-align: center;
+}
+
+section .name .name-text p {
+  font-size: 18px;
+}
